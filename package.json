@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Build an app using Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyka-ed/express.git"
+  },
+  "author": "Glory Edem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyka-ed/express/issues"
+  },
+  "homepage": "https://github.com/lyka-ed/express#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
